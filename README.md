@@ -1,4 +1,4 @@
-# Project Title
+# Programação para Advogados na FGV DIREITO RIO
 
 One Paragraph of project description goes here
 
