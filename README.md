@@ -1,6 +1,6 @@
 # Programming for Lawyers -- FGV DIREITO RIO
 
-![The School of Athens](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/960px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)
+![The School of Athens](./painting.jpg)
 
 *"The School of Athens" (1509–1511) by Raphael — [Wikipedia](https://en.wikipedia.org/wiki/The_School_of_Athens)*
 
