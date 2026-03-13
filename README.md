@@ -1,88 +1,30 @@
-# Programação para Advogados na FGV DIREITO RIO
+# Programming for Lawyers -- FGV DIREITO RIO
 
-One Paragraph of project description goes here
+![The School of Athens](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/960px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)
 
-## Getting Started
+*"The School of Athens" (1509–1511) by Raphael — [Wikipedia](https://en.wikipedia.org/wiki/The_School_of_Athens)*
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Course materials for "Programacao para Advogados" (Programming for Lawyers), a course at FGV DIREITO RIO in Rio de Janeiro, Brazil.
 
-### Prerequisites
+## About
 
-What things you need to install the software and how to install them
+This repository holds supporting materials for a programming course designed for law students at Fundacao Getulio Vargas (FGV DIREITO RIO). The course introduces computational thinking and practical programming skills to future lawyers, reflecting the growing intersection of technology and legal practice.
 
-```
-Give examples
-```
+> **Note**: Course content is in Portuguese. This README is in English for portfolio visibility.
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+## Repository Structure
 
 ```
-Give the example
+.
+├── apostilas/   # course handouts and reading materials
+├── ementas/     # syllabi and course outlines
+└── exams/       # exam materials
 ```
 
-And repeat
+## Context
 
-```
-until finished
-```
+FGV DIREITO RIO is one of Brazil's top law schools. This course is part of a broader effort to equip law students with technical literacy -- an increasingly important skill as legal technology, data analysis, and automation reshape the profession.
 
-End with an example of getting some data out of the system or using it for a little demo
+## Author
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+Pedro Delfino -- [GitHub](https://github.com/pdelfino) -- [pedrodelfino.com](https://pedrodelfino.com)
